@@ -1,4 +1,4 @@
 # StudentLibrary
-StudentLibrary with Concurrency
+StudentLibrary with Java 11
 
-Solving studentLibrary problem with Java concurrency & ReentrantLock
+Solving studentLibrary problem with Concurrency & ReentrantLock
